@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header part style */
+.header {
+    background-image: url('../images/donation0.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:500px;
+    background-color:darkgrey;
+    background-blend-mode:multiply;
+}
+.main-header {
+    font-size: 40px;
+    color: aliceblue;
+    text-align: center;
+    padding: 174px 307px 337px 307px ;
+}
